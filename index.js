@@ -1,0 +1,1 @@
+window.location.replace( "https://zorawu.notion.site/Hi-I-m-Zora-12c056841bcc8063a38afcb5daed2b56?pvs=4" );
